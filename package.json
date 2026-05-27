@@ -1,0 +1,20 @@
+{
+  "name": "talent-iq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebang45/MERN-Stack-Project-Video-Calling-Interview-Platform-with-React-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebang45/MERN-Stack-Project-Video-Calling-Interview-Platform-with-React-Node.js/issues"
+  },
+  "homepage": "https://github.com/codebang45/MERN-Stack-Project-Video-Calling-Interview-Platform-with-React-Node.js#readme",
+  "description": ""
+}
